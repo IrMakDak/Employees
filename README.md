@@ -32,6 +32,12 @@ npm run start
 
 ---
 
+### Screenshots:
+
+<img width="1095" alt="Screenshot 2023-03-20 at 13 00 49" src="https://user-images.githubusercontent.com/54810215/226333312-d99a0811-a9cf-488c-81e3-42dcc5cb0855.png">
+
+---
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ir-makedonskaya-ximkd/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
